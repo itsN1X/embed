@@ -1,4 +1,11 @@
-# Cryptowatch Embed
+# Cryptowatch Embed - N1X fork 
+
+<hr>
+- [ ] Write all use-cases clearly, span.
+- [ ] Launch beta on bit.N1X.website
+- [ ] Add suppporr for rgba using Python. 
+@itsN1X
+<hr>
 
 [![npm version](https://badge.fury.io/js/cryptowatch-embed.svg)](https://badge.fury.io/js/cryptowatch-embed)
 
