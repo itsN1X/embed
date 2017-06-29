@@ -1,9 +1,13 @@
 # Cryptowatch Embed - N1X fork 
 
 <hr>
+
 - [ ] Write all use-cases clearly, span.
-- [ ] Launch beta on bit.N1X.website
-- [ ] Add suppporr for rgba using Python. 
+
+- [ ] Launch beta on bit.N1X.website.
+
+- [ ] Add support for rgba using Python. 
+    
 @itsN1X
 <hr>
 
